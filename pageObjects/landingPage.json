@@ -1,0 +1,8 @@
+{
+  "element": {
+    "textBox": "What needs to be done?",
+    "header": "This is just a demo of TodoMVC for testing, not the real TodoMVC app."
+  },
+  "values": {
+  }
+}
